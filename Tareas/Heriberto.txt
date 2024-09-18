@@ -1,0 +1,8 @@
+Actividades: 
+>Entrar en el documento "Tareas.txt" y responder lo que se te indique 
+>Abrir el archivo Codigo.c, leer e identificar los errores que tenga.   
+>Crear un archivo .txt con el nombre "Dato_primernombre" en el cual deberas poner tu nombre completo 
+y seguido a eso en que linea y que error identificaste. El archivo debera ser guardado en la carpeta Datos. 
+
+Una ves terminadas las tareas subir el archivo a su GitHub personal, y hacer un Pull Request al 
+original en el cual pongan como comentario Su nombre y cuantos errores identificaron. 
