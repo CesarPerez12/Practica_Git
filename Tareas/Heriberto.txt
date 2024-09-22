@@ -4,5 +4,7 @@ Actividades:
 >Crear un archivo .txt con el nombre "Dato_primernombre" en el cual deberas poner tu nombre completo 
 y seguido a eso en que linea y que error identificaste. El archivo debera ser guardado en la carpeta Datos. 
 
+
+esto es un cambio 
 Una ves terminadas las tareas subir el archivo a su GitHub personal, y hacer un Pull Request al 
 original en el cual pongan como comentario Su nombre y cuantos errores identificaron. 

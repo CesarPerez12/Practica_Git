@@ -3,9 +3,9 @@ tienen que responderlas eliminando la palabra "Aquí" y colocando su respuesta.
 
 
 Heriberto:
->6*7= Aqui 
->¿Quién fue el primer presidente de México? = Aquí 
->Inserta cualquier refran = Aquí 
+>6*7= 42 
+>¿Quién fue el primer presidente de México? = Guadalupe Victoria
+>Inserta cualquier refran = Cesar es mi hijo en Mortal Kombat 
 
 
 Abraham: 
