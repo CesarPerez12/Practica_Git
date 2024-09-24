@@ -9,6 +9,6 @@ Heriberto:
 
 
 Abraham: 
->3*9= Aquí 
->¿En que fecha se llevo a cabo la consquista de méxico? = Aquí 
->Inserta un poema corto = Aquí 
+>3*9= 27 
+>¿En que fecha se llevo a cabo la consquista de méxico? =  13 de agosto de 1521
+>Inserta un poema corto = Camaron que se duerme se lo lleva la corriente.
