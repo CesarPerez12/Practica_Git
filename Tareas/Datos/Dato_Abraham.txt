@@ -1,0 +1,4 @@
+Jose Abraham Hernandez Vargas. 
+Linea 49, La función se llama Parpadear_Led () en vez de Parpadear ()
+Linea 30, debe ser ms--; para poder descontar segundos
+Linea 41, se debe apagar el led para la función de parpadeo o si no solo quedara prendido con GPIO_PORTA_AHB_DATA_R = 0x00;
